@@ -9,7 +9,7 @@
 # 2. Log into device. Press CTRL+ALT+T to open crosh shell.
 # 3. Type "shell" to enter Bash shell.
 # 4. Type:
-#      bash <(curl -s -S -L https://git.io/fjyWV)
+#      bash <(curl -s -S -L https://git.io/fjylI)
 #
 
 # Make SSD read/write if it's not
